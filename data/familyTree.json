@@ -1,0 +1,88 @@
+{
+    "name": "Reddi Atchayya",
+    "relation": "Pedha Thathayya",
+    "children": [
+        {
+            "name": "Reddi Appalnaidu",
+            "relation": "Thathayya",
+            "children": [
+                {
+                    "name": "Reddi Apparao",
+                    "relation": "Daddy",
+                    "children": [
+                        {
+                            "name": "Reddi Pravallika",
+                            "relation": "Akka"
+                        },
+                        {
+                            "name": "Surya",
+                            "relation": "Nene"
+                        }
+                    ]
+                },
+                {
+                    "name": "Ramalakshmi",
+                    "relation": "Atthaya",
+                    "children": [
+                        {
+                            "name": "Pavani",
+                            "relation": "Vadhina",
+                            "children": [
+                                {
+                                    "name": "Jahnavi",
+                                    "relation": "Kuthuru"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Harsha",
+                            "relation": "Bava"
+                        }
+                    ]
+                },
+                {
+                    "name": "Suma",
+                    "relation": "Atthaya",
+                    "children": [
+                        {
+                            "name": "Komali",
+                            "relation": "Vadhina"
+                        },
+                        {
+                            "name": "Tejasri",
+                            "relation": "Vadhina"
+                        }
+                    ]
+                },
+                {
+                    "name": "Parvathi",
+                    "relation": "Atthaya",
+                    "children": [
+                        {
+                            "name": "Amogh",
+                            "relation": "Bavamaridhi"
+                        },
+                        {
+                            "name": "Parnika",
+                            "relation": "Maradhal"
+                        }
+                    ]
+                },
+                {
+                    "name": "Ajitha",
+                    "relation": "Atthaya",
+                    "children": [
+                        {
+                            "name": "Sravya",
+                            "relation": "Maradhal"
+                        },
+                        {
+                            "name": "Sai",
+                            "relation": "Bavamaridhi"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
